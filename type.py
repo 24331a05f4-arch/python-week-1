@@ -1,0 +1,6 @@
+num=input("enter a value:")
+print(num)
+print(type(num))
+num1=float(num)
+print(num1)
+print(type(num1))

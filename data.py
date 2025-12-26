@@ -1,0 +1,8 @@
+var=int(input("enter a integer value:"))
+print(type(var))
+var=float(input("enter a integer value:"))
+print(type(var))
+var=input("enter a character:")
+print(type(var))
+var=input("enter a character:")
+print(type(var))
